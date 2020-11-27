@@ -1,4 +1,4 @@
-## Laboratory work V [![Build Status](https://travis-ci.com/puchkovki/lab05.svg?branch=master)](https://travis-ci.com/puchkovki/lab05)
+## Laboratory work V [![Build Status](https://travis-ci.com/puchkovki/lab05-GTest.svg?branch=master)](https://travis-ci.com/puchkovki/lab05-GTest)
 
 Данная лабораторная работа посвещена изучению фреймворков для тестирования на примере **GTest**
 
